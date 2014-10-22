@@ -2,7 +2,7 @@
     "type" : "Topology",
     "transform" : {
         "scale" : [0.0035892802775563276, 0.0005250691027211737],
-        "translate" : [-179.14350338367416, 18.906117143691233]
+        "translate" : [-79.14350338367416, 1.906117143691233]
     },
     "objects" : {
         "states" : {
@@ -15,15 +15,6 @@
                     "name" : "Massachusetts",
                     "Statehood" : "Feb. 6, 1788",
                     "Population" : 6692824
-                }
-            }, {
-                "type" : "Polygon",
-                "arcs" : [[10, 11, 12, 13, 14, 15]],
-                "id" : "MN",
-                "properties" : {
-                    "name" : "Minnesota",
-                    "Statehood" : "May 11, 1858",
-                    "Population" : 5420380
                 }
             }, {
                 "type" : "Polygon",
